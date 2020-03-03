@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby 
 
-puts "HI, I'm a ruby file!"
+require "./lib/environment"
 
-#require "./lib/environment"
+#puts "HI, I'm a ruby file!"
 
-#sortinghat::CLI.new.call
+Sortinghat::CLI.new.call

@@ -1,4 +1,4 @@
-require "sortinghat/version"
+require "./lib/sortinghat/version"
 require_relative "./sortinghat/cli"
 
 module Sortinghat

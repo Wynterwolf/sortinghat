@@ -1,4 +1,4 @@
-class sortinghat::CLI 
+class Sortinghat::CLI 
 
     def call
         puts "Hello World"
