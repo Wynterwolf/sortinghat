@@ -1,4 +1,5 @@
 require "sortinghat/version"
+require_relative "./sortinghat/cli"
 
 module Sortinghat
   class Error < StandardError; end
